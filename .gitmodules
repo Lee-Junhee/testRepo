@@ -1,3 +1,6 @@
 [submodule "10/leeJun"]
 	path = 10/leeJun
 	url = https://github.com/Lee-Junhee/testRepo.git
+[submodule "04/leeJun"]
+	path = 04/leeJun
+	url = https://github.com/Lee-Junhee/testRepo.git
